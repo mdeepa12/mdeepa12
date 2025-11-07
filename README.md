@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Deepa Mallipeddi</h1>
+<h1 align="center">👋 Hi, I'm Deepa Mallipeddi</h1>
 <h3 align="center">Data Analyst | SQL • Excel • Python • A/B Testing • Power BI • Tableau</h3>
 
 <p align="center">
@@ -11,23 +11,24 @@
 
 ### 🧩 About Me
 
-- 🎓 **Data Analyst** with a strong foundation in **statistics, business intelligence, and experimentation**
-- 💡 Skilled at turning raw data into meaningful dashboards & product insights  
-- 📊 Experienced in **SQL, Excel, Python, Power BI, and Tableau**
-- 🧠 Passionate about **A/B testing, funnel analysis, and KPI storytelling**
-- 🌱 Currently exploring **data engineering tools (dbt, Airflow)**
-- 🤝 Open to **remote or hybrid data analyst opportunities**
+- 📊 Passionate **Data Analyst** who transforms data into actionable insights  
+- 💡 Skilled in **SQL, Excel, Python, Power BI, and Tableau** for storytelling dashboards  
+- 🧠 Experienced in **A/B testing, cohort analysis, and business KPIs**  
+- 🌱 Learning **dbt + Airflow** to automate analytics workflows  
+- 🚀 Exploring real-world datasets across e-commerce, mobility, and public-sector analytics  
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tools & Tech |
-|----------|--------------|--------------|
-| **E-Commerce Funnel Analysis** | Analyzed conversion drop-offs and optimized product funnel using SQL & Python | SQL • Pandas • Tableau |
-| **Marketing A/B Test Evaluation** | Designed and evaluated an A/B experiment that improved click-through rate by 9% | Python • Statsmodels • Power BI |
-| **Retail Sales Dashboard** | Interactive Power BI dashboard to track sales performance & inventory trends | Power BI • DAX • Excel |
-| **Customer Churn Insights** | Cohort and retention analysis with actionable recommendations | Python • Pandas • Matplotlib |
+| Project | Description | Tech Stack | Links |
+|----------|--------------|------------|-------|
+| 🍽️ **Eatoes** | Restaurant analytics & order-insights platform with dynamic Power BI dashboards. | `PostgreSQL` • `Power BI` • `Prisma` • `Node.js` | [🔗 Live Demo](#) | [💻 Code](https://github.com/mdeepa12/eatoes) |
+| 🚗 **RideMama** | Campus ride-sharing MVP — analyzed 2.3k rides to model retention & peak-route clusters. | `Next.js` • `MongoDB` • `Python` • `Plotly` | [🔗 Live Dashboard](#) | [💻 Code](https://github.com/mdeepa12/ridemama) |
+| 🧭 **TripTogether** | Collaborative travel-planning system with cost analytics & trip-recommendation engine. | `Next.js` • `Prisma` • `PostgreSQL` • `WebSockets` | [🔗 Live App](#) | [💻 Code](https://github.com/mdeepa12/triptogether) |
+| ⚖️ **DA Case Dashboard** | Justice-data visualization dashboard for county case management; boosted analyst speed 30 %. | `ASP.NET MVC` • `SQL Server` • `ComponentOne` • `Power BI` | [🔗 Live Dashboard](#) | [💻 Code](https://github.com/mdeepa12/DA-Case-Dashboard) |
+
+> *(Replace the “#” in each **Live** link with your real Power BI/Tableau/Vercel URLs once published.)*
 
 ---
 
@@ -40,7 +41,7 @@
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
 
 **Tools & Platforms:**  
-`Git` • `Jupyter Notebook` • `Google BigQuery` • `Azure` • `VS Code`
+`Git` • `Jupyter Notebook` • `VS Code` • `BigQuery` • `Azure` • `Vercel`
 
 ---
 
@@ -53,7 +54,7 @@
 
 ---
 
-### 📨 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/deepamallipeddi"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
