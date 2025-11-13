@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Deepa Mallipeddi — Data Analyst Banner">
+</p>
 # 👋 Hi, I'm Deepa Mallipeddi  
 ### Data Analyst | SQL • Python • A/B Testing • Power BI • Tableau • Excel  
 
