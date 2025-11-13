@@ -1,66 +1,37 @@
-<h1 align="center">👋 Hi, I'm Deepa Mallipeddi</h1>
-<h3 align="center">Data Analyst | SQL • Excel • Python • A/B Testing • Power BI • Tableau</h3>
-
-<p align="center">
-  <a href="mailto:deepa.mallipeddi@example.com"><img src="https://img.shields.io/badge/Email-deepa.mallipeddi%40example.com-blue?logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/deepamallipeddi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://github.com/mdeepa12"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
-</p>
+# 👋 Hi, I'm Deepa Mallipeddi  
+### Data Analyst | SQL • Python • A/B Testing • Power BI • Tableau • Excel  
 
 ---
 
-### 🧩 About Me
+## 📊 Featured Project — StreamHub 2024 Dashboard  
+A full-scale retention & revenue analytics dashboard built using **Streamlit, PostgreSQL, and Python**, analyzing **75,000 users** and **2.5M+ events**.
 
-- 📊 Passionate **Data Analyst** who transforms data into actionable insights  
-- 💡 Skilled in **SQL, Excel, Python, Power BI, and Tableau** for storytelling dashboards  
-- 🧠 Experienced in **A/B testing, cohort analysis, and business KPIs**  
-- 🌱 Learning **dbt + Airflow** to automate analytics workflows  
-- 🚀 Exploring real-world datasets across e-commerce, mobility, and public-sector analytics  
+🌐 **Live Dashboard:** https://streamapp-2024-dashboard.streamlit.app/  
+💻 **Code Repository:** https://github.com/mdeepa12/streamhub-2024-dashboard  
+📁 **Dataset (Kaggle):** https://www.kaggle.com/datasets/deepamallipeddi/streamhub-2024-retention-data
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|----------|--------------|------------|-------|
-| 🍽️ **Eatoes** | Restaurant analytics & order-insights platform with dynamic Power BI dashboards. | `PostgreSQL` • `Power BI` • `Prisma` • `Node.js` | [🔗 Live Demo](#) | [💻 Code](https://github.com/mdeepa12/eatoes) |
-| 🚗 **RideMama** | Campus ride-sharing MVP — analyzed 2.3k rides to model retention & peak-route clusters. | `Next.js` • `MongoDB` • `Python` • `Plotly` | [🔗 Live Dashboard](#) | [💻 Code](https://github.com/mdeepa12/ridemama) |
-| 🧭 **TripTogether** | Collaborative travel-planning system with cost analytics & trip-recommendation engine. | `Next.js` • `Prisma` • `PostgreSQL` • `WebSockets` | [🔗 Live App](#) | [💻 Code](https://github.com/mdeepa12/triptogether) |
-| ⚖️ **DA Case Dashboard** | Justice-data visualization dashboard for county case management; boosted analyst speed 30 %. | `ASP.NET MVC` • `SQL Server` • `ComponentOne` • `Power BI` | [🔗 Live Dashboard](#) | [💻 Code](https://github.com/mdeepa12/DA-Case-Dashboard) |
-
-> *(Replace the “#” in each **Live** link with your real Power BI/Tableau/Vercel URLs once published.)*
+**Highlights:**
+- Cohort retention (1–26 week user stickiness)
+- ARPU & ARPPU breakdown by plan/region
+- User funnel analytics (signup → play → repeat sessions)
+- Clean, interactive dashboard using Plotly + Streamlit
+- Realistic synthetic dataset built for portfolio-scale analytics  
 
 ---
 
-### 🧰 Tech Stack
-
-**Core Skills:**  
-`SQL` • `Excel` • `Python` • `Power BI` • `Tableau` • `A/B Testing`
-
-**Data Libraries:**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-
-**Tools & Platforms:**  
-`Git` • `Jupyter Notebook` • `VS Code` • `BigQuery` • `Azure` • `Vercel`
+## 🛠️ Tools & Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4A4A?style=flat&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mdeepa12&show_icons=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdeepa12&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/deepamallipeddi"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:deepa.mallipeddi@example.com"><img src="https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge" /></a>
-</p>
-
----
-
-⭐ *“Data is the new oil — I refine it into insights that drive growth.”*
+## 📚 More Projects Coming Soon  
+Building:
+- A/B testing simulation project  
+- Customer churn prediction model  
+- Marketing analytics dashboard  
